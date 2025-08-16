@@ -33,24 +33,6 @@ Este repositório contém scripts em R para processamento, limpeza e filtragem d
 
 │   └── 02_range_filtering.R          # Script de filtragem por range geográfico
 
-├── data/
-
-│   ├── raw/                          # Dados brutos (planilhas originais)
-
-│   ├── processed/                    # Dados processados
-
-│   └── shapefiles/                   # Shapefiles dos ranges das espécies
-
-├── output/
-
-│   ├── consolidated/                 # Datasets consolidados
-
-│   └── filtered/                     # Datasets filtrados por range
-
-├── docs/
-
-│   └── data_dictionary.md            # Dicionário dos dados
-
 ├── README.md
 
 └── .gitignore

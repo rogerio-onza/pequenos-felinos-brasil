@@ -167,6 +167,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 Rogério Nunes Oliveira
 
 Projeto desenvolvido como parte de bolsa de pesquisa
+
 Data de criação: Agosto/2025
 
 📚 Citação

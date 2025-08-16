@@ -172,10 +172,10 @@ Suporte a vírgula decimal (configurável)
 # 🤝 Contribuições
 Este é um projeto de pesquisa acadêmica. Para sugestões ou correções:
 
-Faça um fork do repositório
-Crie uma branch para sua modificação
-Commit suas mudanças
-Abra um Pull Request
+- Faça um fork do repositório
+- Crie uma branch para sua modificação
+- Commit suas mudanças
+- Abra um Pull Request
 
 # 📝 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.

@@ -158,16 +158,17 @@ O processamento gera:
  - **Registros fora do range**: <especie>_out_of_range.csv
 
 # ⚙️ Configurações Avançadas
-Remoção de Duplicatas
 
-Tolerância espacial padrão: 0.001° (~111m)
-Prioridade de fontes: SALVE > FP > GBIF
+#### Remoção de Duplicatas
 
-# Validação Geográfica
+- Tolerância espacial padrão: 0.001° (~111m)
+- Prioridade de fontes: SALVE > FP > GBIF
 
-Coordenadas válidas: -180° ≤ Longitude ≤ 180°, -90° ≤ Latitude ≤ 90°
-Política de fronteira: intersects (padrão) ou within
-Suporte a vírgula decimal (configurável)
+#### Validação Geográfica
+
+- Coordenadas válidas: -180° ≤ Longitude ≤ 180°, -90° ≤ Latitude ≤ 90°
+- Política de fronteira: intersects (padrão) ou within
+- Suporte a vírgula decimal (configurável)
 
 # 🤝 Contribuições
 Este é um projeto de pesquisa acadêmica. Para sugestões ou correções:

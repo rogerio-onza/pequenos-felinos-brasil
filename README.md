@@ -29,11 +29,11 @@ Este repositório contém scripts em R para processamento, limpeza e filtragem d
 # 📁 Estrutura do Repositório
 ├── scripts/
 
-│   ├── 01_data_import_cleaning.R     # Script principal de importação e limpeza
+│   ├── 01_data_import_cleaning.R         # Script principal de importação e limpeza
 
-│   └── 02_range_filtering.R          # Script de filtragem por range geográfico
+│   └── 02_range_filtering.R              # Script de filtragem por range geográfico
 
-│   └── 03_kernel.R                   # Script de viés amostral
+│   └── 03_kernel.R                       # Script de viés amostral
 
 ├── README.md
 

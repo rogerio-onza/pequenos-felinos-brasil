@@ -33,6 +33,8 @@ Este repositório contém scripts em R para processamento, limpeza e filtragem d
 
 │   └── 02_range_filtering.R          # Script de filtragem por range geográfico
 
+│   └── 03_kernel.R                   # Script de viés amostral
+
 ├── README.md
 
 └── .gitignore

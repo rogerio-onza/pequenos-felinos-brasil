@@ -35,6 +35,8 @@ Este repositório contém scripts em R para processamento, limpeza e filtragem d
 
 │   └── 03_kernel.R                       # Script de viés amostral
 
+│   └── 04_gráficos.R                     # Script para gerar gráficos  
+
 ├── README.md
 
 └── .gitignore
